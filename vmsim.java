@@ -1,9 +1,8 @@
-
 import java.io.*;
 import java.util.*;
 public class vmsim
 {
-    // Data Structures Used
+    // Data Strucutred Used
     private String Algorithm;
     private int TotalNumFrames, P0Frames, P1Frames, PageSize, PageFaults, NumMemoryAccess, NumWrite, PageBits;
     private int[] MemSplit;
